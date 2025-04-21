@@ -12,3 +12,4 @@ c:\Users\Mauricio\OneDrive\Documents\poo_tec\poo1\obj\Debug\net9.0\refint\poo1.d
 c:\Users\Mauricio\OneDrive\Documents\poo_tec\poo1\obj\Debug\net9.0\poo1.pdb
 C:\Users\Mauricio\OneDrive\Documents\poo_tec\poo1\obj\Debug\net9.0\poo1.genruntimeconfig.cache
 C:\Users\Mauricio\OneDrive\Documents\poo_tec\poo1\obj\Debug\net9.0\ref\poo1.dll
+c:\Users\Mauricio\OneDrive\Documents\poo_tec\poo1\obj\Debug\net9.0\poo1.sourcelink.json
